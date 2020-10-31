@@ -1,0 +1,8 @@
+.roiBackground{
+    background-image:none;
+    background-color:rgba(103,129,242,.7);
+}
+
+.reInvestButton,.compoundCalc{
+    display: none;
+}
